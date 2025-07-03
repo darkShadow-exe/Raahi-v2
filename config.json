@@ -1,0 +1,43 @@
+{
+  "defaults": {
+    "grid_size": 8,
+    "training_episodes": 1000,
+    "save_path": "data/",
+    "model_path": "models/",
+    "log_path": "logs/",
+    "llm_model": "microsoft/phi-2",
+    "simulation_start_time": 5,
+    "simulation_end_time": 23
+  },
+  "zone_weights": {
+    "residential": {
+      "morning_outflow": 0.8,
+      "evening_inflow": 0.7
+    },
+    "commercial": {
+      "morning_inflow": 0.7,
+      "evening_outflow": 0.8
+    },
+    "industrial": {
+      "morning_inflow": 0.6,
+      "evening_outflow": 0.6
+    }
+  },
+  "station_types": {
+    "bus": {
+      "min_frequency": 5,
+      "max_frequency": 30,
+      "capacity": 50
+    },
+    "tram": {
+      "min_frequency": 10,
+      "max_frequency": 20,
+      "capacity": 120
+    },
+    "metro": {
+      "min_frequency": 15,
+      "max_frequency": 10,
+      "capacity": 300
+    }
+  }
+}

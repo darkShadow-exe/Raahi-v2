@@ -1,0 +1,2122 @@
+{
+  "grid_size": 15,
+  "zones": [
+    {
+      "x": 0,
+      "y": 0,
+      "type": "industrial"
+    },
+    {
+      "x": 0,
+      "y": 1,
+      "type": "industrial"
+    },
+    {
+      "x": 0,
+      "y": 2,
+      "type": "commercial"
+    },
+    {
+      "x": 0,
+      "y": 3,
+      "type": "industrial"
+    },
+    {
+      "x": 0,
+      "y": 4,
+      "type": "industrial"
+    },
+    {
+      "x": 0,
+      "y": 5,
+      "type": "industrial"
+    },
+    {
+      "x": 0,
+      "y": 6,
+      "type": "commercial"
+    },
+    {
+      "x": 0,
+      "y": 7,
+      "type": "commercial"
+    },
+    {
+      "x": 0,
+      "y": 8,
+      "type": "commercial"
+    },
+    {
+      "x": 0,
+      "y": 9,
+      "type": "commercial"
+    },
+    {
+      "x": 0,
+      "y": 10,
+      "type": "commercial"
+    },
+    {
+      "x": 0,
+      "y": 11,
+      "type": "commercial"
+    },
+    {
+      "x": 0,
+      "y": 12,
+      "type": "residential"
+    },
+    {
+      "x": 0,
+      "y": 13,
+      "type": "industrial"
+    },
+    {
+      "x": 0,
+      "y": 14,
+      "type": "residential"
+    },
+    {
+      "x": 1,
+      "y": 0,
+      "type": "industrial"
+    },
+    {
+      "x": 1,
+      "y": 1,
+      "type": "residential"
+    },
+    {
+      "x": 1,
+      "y": 2,
+      "type": "residential"
+    },
+    {
+      "x": 1,
+      "y": 3,
+      "type": "residential"
+    },
+    {
+      "x": 1,
+      "y": 4,
+      "type": "residential"
+    },
+    {
+      "x": 1,
+      "y": 5,
+      "type": "residential"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "type": "residential"
+    },
+    {
+      "x": 1,
+      "y": 7,
+      "type": "commercial"
+    },
+    {
+      "x": 1,
+      "y": 8,
+      "type": "commercial"
+    },
+    {
+      "x": 1,
+      "y": 9,
+      "type": "commercial"
+    },
+    {
+      "x": 1,
+      "y": 10,
+      "type": "commercial"
+    },
+    {
+      "x": 1,
+      "y": 11,
+      "type": "commercial"
+    },
+    {
+      "x": 1,
+      "y": 12,
+      "type": "residential"
+    },
+    {
+      "x": 1,
+      "y": 13,
+      "type": "industrial"
+    },
+    {
+      "x": 1,
+      "y": 14,
+      "type": "industrial"
+    },
+    {
+      "x": 2,
+      "y": 0,
+      "type": "industrial"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "type": "residential"
+    },
+    {
+      "x": 2,
+      "y": 2,
+      "type": "residential"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "type": "residential"
+    },
+    {
+      "x": 2,
+      "y": 4,
+      "type": "residential"
+    },
+    {
+      "x": 2,
+      "y": 5,
+      "type": "residential"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "type": "residential"
+    },
+    {
+      "x": 2,
+      "y": 7,
+      "type": "commercial"
+    },
+    {
+      "x": 2,
+      "y": 8,
+      "type": "commercial"
+    },
+    {
+      "x": 2,
+      "y": 9,
+      "type": "commercial"
+    },
+    {
+      "x": 2,
+      "y": 10,
+      "type": "commercial"
+    },
+    {
+      "x": 2,
+      "y": 11,
+      "type": "commercial"
+    },
+    {
+      "x": 2,
+      "y": 12,
+      "type": "commercial"
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "type": "industrial"
+    },
+    {
+      "x": 2,
+      "y": 14,
+      "type": "industrial"
+    },
+    {
+      "x": 3,
+      "y": 0,
+      "type": "industrial"
+    },
+    {
+      "x": 3,
+      "y": 1,
+      "type": "residential"
+    },
+    {
+      "x": 3,
+      "y": 2,
+      "type": "residential"
+    },
+    {
+      "x": 3,
+      "y": 3,
+      "type": "residential"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "type": "residential"
+    },
+    {
+      "x": 3,
+      "y": 5,
+      "type": "residential"
+    },
+    {
+      "x": 3,
+      "y": 6,
+      "type": "residential"
+    },
+    {
+      "x": 3,
+      "y": 7,
+      "type": "commercial"
+    },
+    {
+      "x": 3,
+      "y": 8,
+      "type": "commercial"
+    },
+    {
+      "x": 3,
+      "y": 9,
+      "type": "commercial"
+    },
+    {
+      "x": 3,
+      "y": 10,
+      "type": "commercial"
+    },
+    {
+      "x": 3,
+      "y": 11,
+      "type": "commercial"
+    },
+    {
+      "x": 3,
+      "y": 12,
+      "type": "residential"
+    },
+    {
+      "x": 3,
+      "y": 13,
+      "type": "industrial"
+    },
+    {
+      "x": 3,
+      "y": 14,
+      "type": "residential"
+    },
+    {
+      "x": 4,
+      "y": 0,
+      "type": "industrial"
+    },
+    {
+      "x": 4,
+      "y": 1,
+      "type": "residential"
+    },
+    {
+      "x": 4,
+      "y": 2,
+      "type": "residential"
+    },
+    {
+      "x": 4,
+      "y": 3,
+      "type": "residential"
+    },
+    {
+      "x": 4,
+      "y": 4,
+      "type": "residential"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "type": "residential"
+    },
+    {
+      "x": 4,
+      "y": 6,
+      "type": "residential"
+    },
+    {
+      "x": 4,
+      "y": 7,
+      "type": "commercial"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "type": "commercial"
+    },
+    {
+      "x": 4,
+      "y": 9,
+      "type": "commercial"
+    },
+    {
+      "x": 4,
+      "y": 10,
+      "type": "commercial"
+    },
+    {
+      "x": 4,
+      "y": 11,
+      "type": "commercial"
+    },
+    {
+      "x": 4,
+      "y": 12,
+      "type": "industrial"
+    },
+    {
+      "x": 4,
+      "y": 13,
+      "type": "commercial"
+    },
+    {
+      "x": 4,
+      "y": 14,
+      "type": "residential"
+    },
+    {
+      "x": 5,
+      "y": 0,
+      "type": "industrial"
+    },
+    {
+      "x": 5,
+      "y": 1,
+      "type": "residential"
+    },
+    {
+      "x": 5,
+      "y": 2,
+      "type": "residential"
+    },
+    {
+      "x": 5,
+      "y": 3,
+      "type": "residential"
+    },
+    {
+      "x": 5,
+      "y": 4,
+      "type": "residential"
+    },
+    {
+      "x": 5,
+      "y": 5,
+      "type": "residential"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "type": "residential"
+    },
+    {
+      "x": 5,
+      "y": 7,
+      "type": "industrial"
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "type": "commercial"
+    },
+    {
+      "x": 5,
+      "y": 9,
+      "type": "commercial"
+    },
+    {
+      "x": 5,
+      "y": 10,
+      "type": "industrial"
+    },
+    {
+      "x": 5,
+      "y": 11,
+      "type": "industrial"
+    },
+    {
+      "x": 5,
+      "y": 12,
+      "type": "industrial"
+    },
+    {
+      "x": 5,
+      "y": 13,
+      "type": "residential"
+    },
+    {
+      "x": 5,
+      "y": 14,
+      "type": "residential"
+    },
+    {
+      "x": 6,
+      "y": 0,
+      "type": "industrial"
+    },
+    {
+      "x": 6,
+      "y": 1,
+      "type": "residential"
+    },
+    {
+      "x": 6,
+      "y": 2,
+      "type": "residential"
+    },
+    {
+      "x": 6,
+      "y": 3,
+      "type": "residential"
+    },
+    {
+      "x": 6,
+      "y": 4,
+      "type": "residential"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "type": "residential"
+    },
+    {
+      "x": 6,
+      "y": 6,
+      "type": "residential"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "type": "residential"
+    },
+    {
+      "x": 6,
+      "y": 8,
+      "type": "residential"
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "type": "commercial"
+    },
+    {
+      "x": 6,
+      "y": 10,
+      "type": "residential"
+    },
+    {
+      "x": 6,
+      "y": 11,
+      "type": "industrial"
+    },
+    {
+      "x": 6,
+      "y": 12,
+      "type": "commercial"
+    },
+    {
+      "x": 6,
+      "y": 13,
+      "type": "industrial"
+    },
+    {
+      "x": 6,
+      "y": 14,
+      "type": "commercial"
+    },
+    {
+      "x": 7,
+      "y": 0,
+      "type": "residential"
+    },
+    {
+      "x": 7,
+      "y": 1,
+      "type": "residential"
+    },
+    {
+      "x": 7,
+      "y": 2,
+      "type": "commercial"
+    },
+    {
+      "x": 7,
+      "y": 3,
+      "type": "residential"
+    },
+    {
+      "x": 7,
+      "y": 4,
+      "type": "commercial"
+    },
+    {
+      "x": 7,
+      "y": 5,
+      "type": "residential"
+    },
+    {
+      "x": 7,
+      "y": 6,
+      "type": "residential"
+    },
+    {
+      "x": 7,
+      "y": 7,
+      "type": "commercial"
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "type": "industrial"
+    },
+    {
+      "x": 7,
+      "y": 9,
+      "type": "commercial"
+    },
+    {
+      "x": 7,
+      "y": 10,
+      "type": "industrial"
+    },
+    {
+      "x": 7,
+      "y": 11,
+      "type": "residential"
+    },
+    {
+      "x": 7,
+      "y": 12,
+      "type": "industrial"
+    },
+    {
+      "x": 7,
+      "y": 13,
+      "type": "commercial"
+    },
+    {
+      "x": 7,
+      "y": 14,
+      "type": "commercial"
+    },
+    {
+      "x": 8,
+      "y": 0,
+      "type": "industrial"
+    },
+    {
+      "x": 8,
+      "y": 1,
+      "type": "industrial"
+    },
+    {
+      "x": 8,
+      "y": 2,
+      "type": "residential"
+    },
+    {
+      "x": 8,
+      "y": 3,
+      "type": "residential"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "type": "residential"
+    },
+    {
+      "x": 8,
+      "y": 5,
+      "type": "industrial"
+    },
+    {
+      "x": 8,
+      "y": 6,
+      "type": "commercial"
+    },
+    {
+      "x": 8,
+      "y": 7,
+      "type": "residential"
+    },
+    {
+      "x": 8,
+      "y": 8,
+      "type": "commercial"
+    },
+    {
+      "x": 8,
+      "y": 9,
+      "type": "industrial"
+    },
+    {
+      "x": 8,
+      "y": 10,
+      "type": "residential"
+    },
+    {
+      "x": 8,
+      "y": 11,
+      "type": "residential"
+    },
+    {
+      "x": 8,
+      "y": 12,
+      "type": "commercial"
+    },
+    {
+      "x": 8,
+      "y": 13,
+      "type": "industrial"
+    },
+    {
+      "x": 8,
+      "y": 14,
+      "type": "industrial"
+    },
+    {
+      "x": 9,
+      "y": 0,
+      "type": "commercial"
+    },
+    {
+      "x": 9,
+      "y": 1,
+      "type": "residential"
+    },
+    {
+      "x": 9,
+      "y": 2,
+      "type": "commercial"
+    },
+    {
+      "x": 9,
+      "y": 3,
+      "type": "commercial"
+    },
+    {
+      "x": 9,
+      "y": 4,
+      "type": "industrial"
+    },
+    {
+      "x": 9,
+      "y": 5,
+      "type": "residential"
+    },
+    {
+      "x": 9,
+      "y": 6,
+      "type": "industrial"
+    },
+    {
+      "x": 9,
+      "y": 7,
+      "type": "commercial"
+    },
+    {
+      "x": 9,
+      "y": 8,
+      "type": "commercial"
+    },
+    {
+      "x": 9,
+      "y": 9,
+      "type": "commercial"
+    },
+    {
+      "x": 9,
+      "y": 10,
+      "type": "industrial"
+    },
+    {
+      "x": 9,
+      "y": 11,
+      "type": "residential"
+    },
+    {
+      "x": 9,
+      "y": 12,
+      "type": "commercial"
+    },
+    {
+      "x": 9,
+      "y": 13,
+      "type": "commercial"
+    },
+    {
+      "x": 9,
+      "y": 14,
+      "type": "commercial"
+    },
+    {
+      "x": 10,
+      "y": 0,
+      "type": "commercial"
+    },
+    {
+      "x": 10,
+      "y": 1,
+      "type": "residential"
+    },
+    {
+      "x": 10,
+      "y": 2,
+      "type": "industrial"
+    },
+    {
+      "x": 10,
+      "y": 3,
+      "type": "commercial"
+    },
+    {
+      "x": 10,
+      "y": 4,
+      "type": "residential"
+    },
+    {
+      "x": 10,
+      "y": 5,
+      "type": "commercial"
+    },
+    {
+      "x": 10,
+      "y": 6,
+      "type": "residential"
+    },
+    {
+      "x": 10,
+      "y": 7,
+      "type": "residential"
+    },
+    {
+      "x": 10,
+      "y": 8,
+      "type": "residential"
+    },
+    {
+      "x": 10,
+      "y": 9,
+      "type": "residential"
+    },
+    {
+      "x": 10,
+      "y": 10,
+      "type": "residential"
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "type": "residential"
+    },
+    {
+      "x": 10,
+      "y": 12,
+      "type": "industrial"
+    },
+    {
+      "x": 10,
+      "y": 13,
+      "type": "industrial"
+    },
+    {
+      "x": 10,
+      "y": 14,
+      "type": "residential"
+    },
+    {
+      "x": 11,
+      "y": 0,
+      "type": "commercial"
+    },
+    {
+      "x": 11,
+      "y": 1,
+      "type": "commercial"
+    },
+    {
+      "x": 11,
+      "y": 2,
+      "type": "residential"
+    },
+    {
+      "x": 11,
+      "y": 3,
+      "type": "residential"
+    },
+    {
+      "x": 11,
+      "y": 4,
+      "type": "commercial"
+    },
+    {
+      "x": 11,
+      "y": 5,
+      "type": "industrial"
+    },
+    {
+      "x": 11,
+      "y": 6,
+      "type": "commercial"
+    },
+    {
+      "x": 11,
+      "y": 7,
+      "type": "commercial"
+    },
+    {
+      "x": 11,
+      "y": 8,
+      "type": "commercial"
+    },
+    {
+      "x": 11,
+      "y": 9,
+      "type": "residential"
+    },
+    {
+      "x": 11,
+      "y": 10,
+      "type": "commercial"
+    },
+    {
+      "x": 11,
+      "y": 11,
+      "type": "residential"
+    },
+    {
+      "x": 11,
+      "y": 12,
+      "type": "commercial"
+    },
+    {
+      "x": 11,
+      "y": 13,
+      "type": "residential"
+    },
+    {
+      "x": 11,
+      "y": 14,
+      "type": "residential"
+    },
+    {
+      "x": 12,
+      "y": 0,
+      "type": "commercial"
+    },
+    {
+      "x": 12,
+      "y": 1,
+      "type": "commercial"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "type": "commercial"
+    },
+    {
+      "x": 12,
+      "y": 3,
+      "type": "industrial"
+    },
+    {
+      "x": 12,
+      "y": 4,
+      "type": "residential"
+    },
+    {
+      "x": 12,
+      "y": 5,
+      "type": "industrial"
+    },
+    {
+      "x": 12,
+      "y": 6,
+      "type": "industrial"
+    },
+    {
+      "x": 12,
+      "y": 7,
+      "type": "residential"
+    },
+    {
+      "x": 12,
+      "y": 8,
+      "type": "commercial"
+    },
+    {
+      "x": 12,
+      "y": 9,
+      "type": "residential"
+    },
+    {
+      "x": 12,
+      "y": 10,
+      "type": "industrial"
+    },
+    {
+      "x": 12,
+      "y": 11,
+      "type": "industrial"
+    },
+    {
+      "x": 12,
+      "y": 12,
+      "type": "commercial"
+    },
+    {
+      "x": 12,
+      "y": 13,
+      "type": "commercial"
+    },
+    {
+      "x": 12,
+      "y": 14,
+      "type": "industrial"
+    },
+    {
+      "x": 13,
+      "y": 0,
+      "type": "commercial"
+    },
+    {
+      "x": 13,
+      "y": 1,
+      "type": "industrial"
+    },
+    {
+      "x": 13,
+      "y": 2,
+      "type": "commercial"
+    },
+    {
+      "x": 13,
+      "y": 3,
+      "type": "industrial"
+    },
+    {
+      "x": 13,
+      "y": 4,
+      "type": "industrial"
+    },
+    {
+      "x": 13,
+      "y": 5,
+      "type": "residential"
+    },
+    {
+      "x": 13,
+      "y": 6,
+      "type": "industrial"
+    },
+    {
+      "x": 13,
+      "y": 7,
+      "type": "residential"
+    },
+    {
+      "x": 13,
+      "y": 8,
+      "type": "commercial"
+    },
+    {
+      "x": 13,
+      "y": 9,
+      "type": "industrial"
+    },
+    {
+      "x": 13,
+      "y": 10,
+      "type": "industrial"
+    },
+    {
+      "x": 13,
+      "y": 11,
+      "type": "residential"
+    },
+    {
+      "x": 13,
+      "y": 12,
+      "type": "commercial"
+    },
+    {
+      "x": 13,
+      "y": 13,
+      "type": "commercial"
+    },
+    {
+      "x": 13,
+      "y": 14,
+      "type": "residential"
+    },
+    {
+      "x": 14,
+      "y": 0,
+      "type": "industrial"
+    },
+    {
+      "x": 14,
+      "y": 1,
+      "type": "commercial"
+    },
+    {
+      "x": 14,
+      "y": 2,
+      "type": "residential"
+    },
+    {
+      "x": 14,
+      "y": 3,
+      "type": "industrial"
+    },
+    {
+      "x": 14,
+      "y": 4,
+      "type": "industrial"
+    },
+    {
+      "x": 14,
+      "y": 5,
+      "type": "residential"
+    },
+    {
+      "x": 14,
+      "y": 6,
+      "type": "industrial"
+    },
+    {
+      "x": 14,
+      "y": 7,
+      "type": "residential"
+    },
+    {
+      "x": 14,
+      "y": 8,
+      "type": "industrial"
+    },
+    {
+      "x": 14,
+      "y": 9,
+      "type": "residential"
+    },
+    {
+      "x": 14,
+      "y": 10,
+      "type": "residential"
+    },
+    {
+      "x": 14,
+      "y": 11,
+      "type": "commercial"
+    },
+    {
+      "x": 14,
+      "y": 12,
+      "type": "industrial"
+    },
+    {
+      "x": 14,
+      "y": 13,
+      "type": "industrial"
+    },
+    {
+      "x": 14,
+      "y": 14,
+      "type": "commercial"
+    }
+  ],
+  "stations": [
+    {
+      "id": "station_0",
+      "x": 2,
+      "y": 4,
+      "type": "metro",
+      "is_transfer": true
+    },
+    {
+      "id": "station_1",
+      "x": 13,
+      "y": 4,
+      "type": "metro",
+      "is_transfer": true
+    },
+    {
+      "id": "station_2",
+      "x": 6,
+      "y": 12,
+      "type": "metro",
+      "is_transfer": false
+    },
+    {
+      "id": "station_3",
+      "x": 13,
+      "y": 9,
+      "type": "metro",
+      "is_transfer": true
+    },
+    {
+      "id": "station_4",
+      "x": 8,
+      "y": 11,
+      "type": "metro",
+      "is_transfer": true
+    },
+    {
+      "id": "station_5",
+      "x": 4,
+      "y": 12,
+      "type": "metro",
+      "is_transfer": false
+    },
+    {
+      "id": "station_6",
+      "x": 7,
+      "y": 3,
+      "type": "metro",
+      "is_transfer": true
+    },
+    {
+      "id": "station_7",
+      "x": 14,
+      "y": 3,
+      "type": "metro",
+      "is_transfer": true
+    },
+    {
+      "id": "station_8",
+      "x": 13,
+      "y": 1,
+      "type": "metro",
+      "is_transfer": true
+    },
+    {
+      "id": "station_9",
+      "x": 5,
+      "y": 4,
+      "type": "metro",
+      "is_transfer": false
+    },
+    {
+      "id": "station_10",
+      "x": 2,
+      "y": 2,
+      "type": "metro",
+      "is_transfer": false
+    },
+    {
+      "id": "station_11",
+      "x": 6,
+      "y": 0,
+      "type": "metro",
+      "is_transfer": true
+    },
+    {
+      "id": "station_12",
+      "x": 1,
+      "y": 13,
+      "type": "metro",
+      "is_transfer": true
+    },
+    {
+      "id": "station_13",
+      "x": 10,
+      "y": 1,
+      "type": "metro",
+      "is_transfer": false
+    },
+    {
+      "id": "station_14",
+      "x": 5,
+      "y": 8,
+      "type": "metro",
+      "is_transfer": true
+    },
+    {
+      "id": "station_15",
+      "x": 2,
+      "y": 0,
+      "type": "metro",
+      "is_transfer": false
+    },
+    {
+      "id": "station_16",
+      "x": 2,
+      "y": 4,
+      "type": "tram",
+      "is_transfer": true
+    },
+    {
+      "id": "station_17",
+      "x": 7,
+      "y": 13,
+      "type": "tram",
+      "is_transfer": false
+    },
+    {
+      "id": "station_18",
+      "x": 5,
+      "y": 2,
+      "type": "tram",
+      "is_transfer": true
+    },
+    {
+      "id": "station_19",
+      "x": 5,
+      "y": 12,
+      "type": "tram",
+      "is_transfer": false
+    },
+    {
+      "id": "station_20",
+      "x": 8,
+      "y": 11,
+      "type": "tram",
+      "is_transfer": true
+    },
+    {
+      "id": "station_21",
+      "x": 11,
+      "y": 0,
+      "type": "tram",
+      "is_transfer": false
+    },
+    {
+      "id": "station_22",
+      "x": 12,
+      "y": 5,
+      "type": "tram",
+      "is_transfer": true
+    },
+    {
+      "id": "station_23",
+      "x": 12,
+      "y": 4,
+      "type": "tram",
+      "is_transfer": false
+    },
+    {
+      "id": "station_24",
+      "x": 13,
+      "y": 1,
+      "type": "tram",
+      "is_transfer": true
+    },
+    {
+      "id": "station_25",
+      "x": 2,
+      "y": 11,
+      "type": "tram",
+      "is_transfer": false
+    },
+    {
+      "id": "station_26",
+      "x": 9,
+      "y": 13,
+      "type": "tram",
+      "is_transfer": false
+    },
+    {
+      "id": "station_27",
+      "x": 6,
+      "y": 0,
+      "type": "tram",
+      "is_transfer": true
+    },
+    {
+      "id": "station_28",
+      "x": 13,
+      "y": 7,
+      "type": "tram",
+      "is_transfer": false
+    },
+    {
+      "id": "station_29",
+      "x": 7,
+      "y": 0,
+      "type": "tram",
+      "is_transfer": true
+    },
+    {
+      "id": "station_30",
+      "x": 5,
+      "y": 8,
+      "type": "tram",
+      "is_transfer": true
+    },
+    {
+      "id": "station_31",
+      "x": 2,
+      "y": 5,
+      "type": "tram",
+      "is_transfer": false
+    },
+    {
+      "id": "station_32",
+      "x": 12,
+      "y": 12,
+      "type": "tram",
+      "is_transfer": false
+    },
+    {
+      "id": "station_33",
+      "x": 5,
+      "y": 2,
+      "type": "tram",
+      "is_transfer": true
+    },
+    {
+      "id": "station_34",
+      "x": 11,
+      "y": 11,
+      "type": "tram",
+      "is_transfer": false
+    },
+    {
+      "id": "station_35",
+      "x": 14,
+      "y": 3,
+      "type": "bus",
+      "is_transfer": true
+    },
+    {
+      "id": "station_36",
+      "x": 13,
+      "y": 4,
+      "type": "bus",
+      "is_transfer": true
+    },
+    {
+      "id": "station_37",
+      "x": 10,
+      "y": 12,
+      "type": "bus",
+      "is_transfer": false
+    },
+    {
+      "id": "station_38",
+      "x": 6,
+      "y": 3,
+      "type": "bus",
+      "is_transfer": false
+    },
+    {
+      "id": "station_39",
+      "x": 7,
+      "y": 0,
+      "type": "bus",
+      "is_transfer": true
+    },
+    {
+      "id": "station_40",
+      "x": 13,
+      "y": 1,
+      "type": "bus",
+      "is_transfer": true
+    },
+    {
+      "id": "station_41",
+      "x": 7,
+      "y": 3,
+      "type": "bus",
+      "is_transfer": true
+    },
+    {
+      "id": "station_42",
+      "x": 14,
+      "y": 3,
+      "type": "bus",
+      "is_transfer": true
+    },
+    {
+      "id": "station_43",
+      "x": 13,
+      "y": 1,
+      "type": "bus",
+      "is_transfer": true
+    },
+    {
+      "id": "station_44",
+      "x": 10,
+      "y": 4,
+      "type": "bus",
+      "is_transfer": false
+    },
+    {
+      "id": "station_45",
+      "x": 11,
+      "y": 7,
+      "type": "bus",
+      "is_transfer": false
+    },
+    {
+      "id": "station_46",
+      "x": 13,
+      "y": 9,
+      "type": "bus",
+      "is_transfer": true
+    },
+    {
+      "id": "station_47",
+      "x": 1,
+      "y": 13,
+      "type": "bus",
+      "is_transfer": true
+    },
+    {
+      "id": "station_48",
+      "x": 4,
+      "y": 6,
+      "type": "bus",
+      "is_transfer": false
+    },
+    {
+      "id": "station_49",
+      "x": 11,
+      "y": 10,
+      "type": "bus",
+      "is_transfer": false
+    },
+    {
+      "id": "station_50",
+      "x": 13,
+      "y": 5,
+      "type": "bus",
+      "is_transfer": false
+    },
+    {
+      "id": "station_51",
+      "x": 0,
+      "y": 8,
+      "type": "bus",
+      "is_transfer": false
+    },
+    {
+      "id": "station_52",
+      "x": 5,
+      "y": 2,
+      "type": "bus",
+      "is_transfer": true
+    },
+    {
+      "id": "station_53",
+      "x": 7,
+      "y": 7,
+      "type": "bus",
+      "is_transfer": false
+    },
+    {
+      "id": "station_54",
+      "x": 7,
+      "y": 3,
+      "type": "bus",
+      "is_transfer": true
+    },
+    {
+      "id": "station_55",
+      "x": 12,
+      "y": 5,
+      "type": "bus",
+      "is_transfer": true
+    },
+    {
+      "id": "station_56",
+      "x": 11,
+      "y": 9,
+      "type": "bus",
+      "is_transfer": false
+    }
+  ],
+  "connections": [
+    {
+      "from": "station_0",
+      "to": "station_16",
+      "walk_time": 2
+    },
+    {
+      "from": "station_1",
+      "to": "station_36",
+      "walk_time": 2
+    },
+    {
+      "from": "station_3",
+      "to": "station_46",
+      "walk_time": 2
+    },
+    {
+      "from": "station_4",
+      "to": "station_20",
+      "walk_time": 2
+    },
+    {
+      "from": "station_6",
+      "to": "station_41",
+      "walk_time": 2
+    },
+    {
+      "from": "station_6",
+      "to": "station_54",
+      "walk_time": 2
+    },
+    {
+      "from": "station_7",
+      "to": "station_35",
+      "walk_time": 2
+    },
+    {
+      "from": "station_7",
+      "to": "station_42",
+      "walk_time": 2
+    },
+    {
+      "from": "station_8",
+      "to": "station_24",
+      "walk_time": 2
+    },
+    {
+      "from": "station_8",
+      "to": "station_40",
+      "walk_time": 2
+    },
+    {
+      "from": "station_8",
+      "to": "station_43",
+      "walk_time": 2
+    },
+    {
+      "from": "station_24",
+      "to": "station_40",
+      "walk_time": 2
+    },
+    {
+      "from": "station_24",
+      "to": "station_43",
+      "walk_time": 2
+    },
+    {
+      "from": "station_11",
+      "to": "station_27",
+      "walk_time": 2
+    },
+    {
+      "from": "station_12",
+      "to": "station_47",
+      "walk_time": 2
+    },
+    {
+      "from": "station_14",
+      "to": "station_30",
+      "walk_time": 2
+    },
+    {
+      "from": "station_18",
+      "to": "station_52",
+      "walk_time": 2
+    },
+    {
+      "from": "station_33",
+      "to": "station_52",
+      "walk_time": 2
+    },
+    {
+      "from": "station_22",
+      "to": "station_55",
+      "walk_time": 2
+    },
+    {
+      "from": "station_29",
+      "to": "station_39",
+      "walk_time": 2
+    },
+    {
+      "from": "station_0",
+      "to": "station_16",
+      "walk_time": 0
+    },
+    {
+      "from": "station_0",
+      "to": "station_31",
+      "walk_time": 120
+    },
+    {
+      "from": "station_0",
+      "to": "station_10",
+      "walk_time": 240
+    },
+    {
+      "from": "station_10",
+      "to": "station_15",
+      "walk_time": 240
+    },
+    {
+      "from": "station_0",
+      "to": "station_9",
+      "walk_time": 360
+    },
+    {
+      "from": "station_9",
+      "to": "station_18",
+      "walk_time": 240
+    },
+    {
+      "from": "station_18",
+      "to": "station_33",
+      "walk_time": 0
+    },
+    {
+      "from": "station_18",
+      "to": "station_52",
+      "walk_time": 0
+    },
+    {
+      "from": "station_9",
+      "to": "station_38",
+      "walk_time": 240
+    },
+    {
+      "from": "station_38",
+      "to": "station_6",
+      "walk_time": 120
+    },
+    {
+      "from": "station_6",
+      "to": "station_41",
+      "walk_time": 0
+    },
+    {
+      "from": "station_6",
+      "to": "station_54",
+      "walk_time": 0
+    },
+    {
+      "from": "station_6",
+      "to": "station_29",
+      "walk_time": 360
+    },
+    {
+      "from": "station_29",
+      "to": "station_39",
+      "walk_time": 0
+    },
+    {
+      "from": "station_29",
+      "to": "station_11",
+      "walk_time": 120
+    },
+    {
+      "from": "station_11",
+      "to": "station_27",
+      "walk_time": 0
+    },
+    {
+      "from": "station_9",
+      "to": "station_48",
+      "walk_time": 360
+    },
+    {
+      "from": "station_48",
+      "to": "station_14",
+      "walk_time": 360
+    },
+    {
+      "from": "station_14",
+      "to": "station_30",
+      "walk_time": 0
+    },
+    {
+      "from": "station_14",
+      "to": "station_53",
+      "walk_time": 360
+    },
+    {
+      "from": "station_6",
+      "to": "station_44",
+      "walk_time": 480
+    },
+    {
+      "from": "station_44",
+      "to": "station_23",
+      "walk_time": 240
+    },
+    {
+      "from": "station_23",
+      "to": "station_1",
+      "walk_time": 120
+    },
+    {
+      "from": "station_1",
+      "to": "station_36",
+      "walk_time": 0
+    },
+    {
+      "from": "station_1",
+      "to": "station_50",
+      "walk_time": 120
+    },
+    {
+      "from": "station_23",
+      "to": "station_22",
+      "walk_time": 120
+    },
+    {
+      "from": "station_22",
+      "to": "station_55",
+      "walk_time": 0
+    },
+    {
+      "from": "station_1",
+      "to": "station_7",
+      "walk_time": 240
+    },
+    {
+      "from": "station_7",
+      "to": "station_35",
+      "walk_time": 0
+    },
+    {
+      "from": "station_7",
+      "to": "station_42",
+      "walk_time": 0
+    },
+    {
+      "from": "station_50",
+      "to": "station_28",
+      "walk_time": 240
+    },
+    {
+      "from": "station_28",
+      "to": "station_3",
+      "walk_time": 240
+    },
+    {
+      "from": "station_3",
+      "to": "station_46",
+      "walk_time": 0
+    },
+    {
+      "from": "station_3",
+      "to": "station_56",
+      "walk_time": 240
+    },
+    {
+      "from": "station_56",
+      "to": "station_49",
+      "walk_time": 120
+    },
+    {
+      "from": "station_49",
+      "to": "station_34",
+      "walk_time": 120
+    },
+    {
+      "from": "station_28",
+      "to": "station_45",
+      "walk_time": 240
+    },
+    {
+      "from": "station_34",
+      "to": "station_32",
+      "walk_time": 240
+    },
+    {
+      "from": "station_32",
+      "to": "station_37",
+      "walk_time": 240
+    },
+    {
+      "from": "station_37",
+      "to": "station_26",
+      "walk_time": 240
+    },
+    {
+      "from": "station_26",
+      "to": "station_17",
+      "walk_time": 240
+    },
+    {
+      "from": "station_17",
+      "to": "station_2",
+      "walk_time": 240
+    },
+    {
+      "from": "station_2",
+      "to": "station_19",
+      "walk_time": 120
+    },
+    {
+      "from": "station_19",
+      "to": "station_5",
+      "walk_time": 120
+    },
+    {
+      "from": "station_1",
+      "to": "station_8",
+      "walk_time": 360
+    },
+    {
+      "from": "station_8",
+      "to": "station_24",
+      "walk_time": 0
+    },
+    {
+      "from": "station_8",
+      "to": "station_40",
+      "walk_time": 0
+    },
+    {
+      "from": "station_8",
+      "to": "station_43",
+      "walk_time": 0
+    },
+    {
+      "from": "station_2",
+      "to": "station_4",
+      "walk_time": 360
+    },
+    {
+      "from": "station_4",
+      "to": "station_20",
+      "walk_time": 0
+    },
+    {
+      "from": "station_5",
+      "to": "station_25",
+      "walk_time": 360
+    },
+    {
+      "from": "station_8",
+      "to": "station_13",
+      "walk_time": 360
+    },
+    {
+      "from": "station_13",
+      "to": "station_21",
+      "walk_time": 240
+    },
+    {
+      "from": "station_25",
+      "to": "station_12",
+      "walk_time": 360
+    },
+    {
+      "from": "station_12",
+      "to": "station_47",
+      "walk_time": 0
+    },
+    {
+      "from": "station_14",
+      "to": "station_51",
+      "walk_time": 600
+    },
+    {
+      "from": "station_1",
+      "to": "station_22",
+      "walk_time": 3
+    },
+    {
+      "from": "station_1",
+      "to": "station_35",
+      "walk_time": 3
+    },
+    {
+      "from": "station_1",
+      "to": "station_42",
+      "walk_time": 3
+    },
+    {
+      "from": "station_1",
+      "to": "station_55",
+      "walk_time": 3
+    },
+    {
+      "from": "station_7",
+      "to": "station_36",
+      "walk_time": 3
+    },
+    {
+      "from": "station_9",
+      "to": "station_33",
+      "walk_time": 3
+    },
+    {
+      "from": "station_9",
+      "to": "station_52",
+      "walk_time": 3
+    },
+    {
+      "from": "station_10",
+      "to": "station_16",
+      "walk_time": 3
+    },
+    {
+      "from": "station_11",
+      "to": "station_39",
+      "walk_time": 3
+    },
+    {
+      "from": "station_18",
+      "to": "station_38",
+      "walk_time": 3
+    },
+    {
+      "from": "station_22",
+      "to": "station_36",
+      "walk_time": 3
+    },
+    {
+      "from": "station_22",
+      "to": "station_50",
+      "walk_time": 3
+    },
+    {
+      "from": "station_23",
+      "to": "station_36",
+      "walk_time": 3
+    },
+    {
+      "from": "station_23",
+      "to": "station_50",
+      "walk_time": 3
+    },
+    {
+      "from": "station_23",
+      "to": "station_55",
+      "walk_time": 3
+    },
+    {
+      "from": "station_27",
+      "to": "station_39",
+      "walk_time": 3
+    },
+    {
+      "from": "station_28",
+      "to": "station_46",
+      "walk_time": 3
+    },
+    {
+      "from": "station_33",
+      "to": "station_38",
+      "walk_time": 3
+    },
+    {
+      "from": "station_34",
+      "to": "station_37",
+      "walk_time": 3
+    },
+    {
+      "from": "station_34",
+      "to": "station_56",
+      "walk_time": 3
+    }
+  ],
+  "routes": [
+    {
+      "id": "route_0",
+      "mode": "metro",
+      "stations": [
+        "station_12",
+        "station_10",
+        "station_5",
+        "station_14",
+        "station_11",
+        "station_4",
+        "station_1",
+        "station_8"
+      ],
+      "color": "#FF0000"
+    },
+    {
+      "id": "route_1",
+      "mode": "metro",
+      "stations": [
+        "station_15",
+        "station_13",
+        "station_6",
+        "station_0",
+        "station_9",
+        "station_3",
+        "station_2",
+        "station_12"
+      ],
+      "color": "#00FF00"
+    },
+    {
+      "id": "route_2",
+      "mode": "tram",
+      "stations": [
+        "station_16",
+        "station_18",
+        "station_21",
+        "station_24",
+        "station_23",
+        "station_22",
+        "station_20",
+        "station_17",
+        "station_26",
+        "station_19",
+        "station_25"
+      ],
+      "color": "#FFA500"
+    },
+    {
+      "id": "route_3",
+      "mode": "tram",
+      "stations": [
+        "station_25",
+        "station_30",
+        "station_31",
+        "station_33",
+        "station_27",
+        "station_29",
+        "station_28",
+        "station_32",
+        "station_34",
+        "station_26"
+      ],
+      "color": "#800080"
+    },
+    {
+      "id": "route_4",
+      "mode": "bus",
+      "stations": [
+        "station_38",
+        "station_41",
+        "station_39",
+        "station_40",
+        "station_35",
+        "station_36",
+        "station_37"
+      ],
+      "color": "#FFD700"
+    },
+    {
+      "id": "route_5",
+      "mode": "bus",
+      "stations": [
+        "station_47",
+        "station_48",
+        "station_44",
+        "station_45",
+        "station_46",
+        "station_42",
+        "station_43"
+      ],
+      "color": "#FF69B4"
+    },
+    {
+      "id": "route_6",
+      "mode": "bus",
+      "stations": [
+        "station_51",
+        "station_53",
+        "station_54",
+        "station_52",
+        "station_55",
+        "station_50",
+        "station_49"
+      ],
+      "color": "#32CD32"
+    }
+  ]
+}
